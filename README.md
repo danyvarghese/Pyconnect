@@ -50,4 +50,11 @@ actionName = Clause(action_1).predicate # move
 actionParams = Clause(action_1).args() # ['170.0', '60.0']
 ```
 
+### Demo
+
+Please execute the _run_simulator.py_ file using the following command in the terminal.
+```python
+python3 run_simulator.py
+```
+We have included a sample plan generated using the [surrey_bath](https://github.com/stassa/surrey_bath) repository. 
 
