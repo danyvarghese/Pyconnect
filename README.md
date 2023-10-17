@@ -16,7 +16,7 @@ Pyconnect emerges as a solution to these challenges. It offers:
 
 ## Requirents
 
-1. [Python 3] https://www.python.org/download/releases/3.0/
+1. [Python 3](https://www.python.org/download/releases/3.0/)
 2. [survey-simulation](https://github.com/aoat20/survey-simulation)
 
 ## Getting Started
